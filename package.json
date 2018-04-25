@@ -1,0 +1,22 @@
+{
+  "name": "nodemon-stderr-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drhayes/nodemon-stderr-bug.git"
+  },
+  "author": "David Hayes <drhayes@gmail.com> (http://drhayes.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drhayes/nodemon-stderr-bug/issues"
+  },
+  "homepage": "https://github.com/drhayes/nodemon-stderr-bug#readme",
+  "devDependencies": {
+    "nodemon": "1.17.3"
+  }
+}
